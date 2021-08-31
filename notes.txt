@@ -1,0 +1,12 @@
+Layout
+
+create a menu component
+image component
+blog post component
+header component
+footer component
+
+Main Layout
+-Header
+-Main content
+-Footer
